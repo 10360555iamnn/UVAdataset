@@ -21,4 +21,5 @@ UVA-10071 Back to High School Physics
 UVA-10082 WERTYU  
 UVA-10783 Odd Sum  
 UVA-10106 Product  
+UVA-10300 Ecological Premium  
 UVA-11172 Relational Operator 
