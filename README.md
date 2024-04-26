@@ -9,7 +9,7 @@ UVA-108   Maximum Sum
 UVA-113   Power of Cryptography  
 UVA-136   Ugly Numbers  
 UVA-272   TEX Quotes  
-UVA-299   Train Swapping
+UVA-299   Train Swapping  
 UVA-458   The Decoder  
 UVA-494   Kindergarten Counting Game  
 UVA-575   Skew Binary  
@@ -27,5 +27,6 @@ UVA-10300 Ecological Premium
 UVA-11172 Relational Operator 
 
 ## 值得再寫一次題目
-UVA-101   The Blocks Problem  
-UVA-108   Maximum Sum  
+UVA-101   The Blocks Problem 模擬題  
+UVA-108   Maximum Sum 最大區間合  
+UVA-113   Power of Cryptography  python大數秒殺或C++double(不推薦)  
