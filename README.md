@@ -12,6 +12,7 @@ UVA-272   TEX Quotes
 UVA-299   Train Swapping
 UVA-458   The Decoder  
 UVA-494   Kindergarten Counting Game  
+UVA-575   Skew Binary  
 UVA-591   Box of Bricks  
 UVA-10008 What's Cryptanalysis?  
 UVA-10018 Reverse and Add  
