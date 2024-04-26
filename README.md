@@ -1,5 +1,6 @@
 # UVAdataset
 儲存我寫過的UVA題目
+聲明：這只是我的寫法未必是最優解，自己能馬上想出來並且能過的就是好方法  
 目前收入：  
 UVA-100   The 3n + 1 problem  
 UVA-101   The Blocks Problem  
