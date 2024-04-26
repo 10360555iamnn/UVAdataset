@@ -9,7 +9,8 @@ UVA-108   Maximum Sum
 UVA-113   Power of Cryptography  
 UVA-136   Ugly Numbers  
 UVA-272   TEX Quotes  
-UVA-299   Train Swapping  
+UVA-299   Train Swapping    
+UVA-369   Combinations  
 UVA-458   The Decoder  
 UVA-494   Kindergarten Counting Game  
 UVA-575   Skew Binary  
