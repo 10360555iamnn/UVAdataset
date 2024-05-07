@@ -9,6 +9,7 @@ UVA-108   Maximum Sum
 UVA-113   Power of Cryptography  
 UVA-136   Ugly Numbers  
 UVA-151   Power Crisis  
+UVA-106   Factors and Factorials  
 UVA-272   TEX Quotes  
 UVA-299   Train Swapping    
 UVA-369   Combinations  
