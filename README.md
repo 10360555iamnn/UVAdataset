@@ -10,6 +10,7 @@ UVA-113   Power of Cryptography
 UVA-136   Ugly Numbers  
 UVA-151   Power Crisis  
 UVA-160   Factors and Factorials  
+UVA-264   Count on Cantor  
 UVA-272   TEX Quotes  
 UVA-299   Train Swapping    
 UVA-369   Combinations  
