@@ -17,6 +17,7 @@ UVA-382   Perfection
 UVA-458   The Decoder  
 UVA-494   Kindergarten Counting Game  
 UVA-575   Skew Binary  
+UVA-579   Clock Hands  
 UVA-591   Box of Bricks  
 UVA-10008 What's Cryptanalysis?  
 UVA-10018 Reverse and Add  
