@@ -14,6 +14,7 @@ UVA-264   Count on Cantor
 UVA-272   TEX Quotes  
 UVA-299   Train Swapping    
 UVA-369   Combinations  
+UVA-374   Big Mod  
 UVA-382   Perfection  
 UVA-458   The Decoder  
 UVA-494   Kindergarten Counting Game  
@@ -44,4 +45,5 @@ UVA-11172 Relational Operator
 UVA-101   The Blocks Problem 模擬題  
 UVA-108   Maximum Sum 最大區間合  
 UVA-113   Power of Cryptography  python大數秒殺或C++double(不推薦)  
-UVA-151   Power Crisis 約瑟夫問題  
+UVA-151   Power Crisis 約瑟夫問題    
+UVA-374   Big Mod  快速冪經典題  
