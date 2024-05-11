@@ -23,6 +23,7 @@ UVA-543   Goldbach's Conjecture
 UVA-575   Skew Binary  
 UVA-579   Clock Hands  
 UVA-591   Box of Bricks  
+UVA-10004 Bicoloring  
 UVA-10008 What's Cryptanalysis?  
 UVA-10018 Reverse and Add  
 UVA-10035 Primary Arithmetic  
