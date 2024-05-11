@@ -18,6 +18,8 @@ UVA-382   Perfection
 UVA-458   The Decoder  
 UVA-494   Kindergarten Counting Game  
 UVA-499   What's The Frequency, Kenneth?  
+UVA-541   Error Correction  
+UVA-543   Goldbach's Conjecture  
 UVA-575   Skew Binary  
 UVA-579   Clock Hands  
 UVA-591   Box of Bricks  
