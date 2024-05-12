@@ -5,6 +5,7 @@
 UVA-100   The 3n + 1 problem  
 UVA-101   The Blocks Problem  
 UVA-102   Ecological Bin Packing  
+UVA-105   The Skyline Problem  
 UVA-108   Maximum Sum  
 UVA-113   Power of Cryptography  
 UVA-136   Ugly Numbers  
