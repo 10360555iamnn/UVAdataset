@@ -19,6 +19,7 @@ UVA-374   Big Mod
 UVA-382   Perfection  
 UVA-424   Integer Inquiry  
 UVA-458   The Decoder  
+UVA-483   Word Scramble  
 UVA-494   Kindergarten Counting Game  
 UVA-495   Fibonacci Freeze  
 UVA-499   What's The Frequency, Kenneth?  
