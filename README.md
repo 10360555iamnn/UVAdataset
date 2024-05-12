@@ -17,6 +17,7 @@ UVA-299   Train Swapping
 UVA-369   Combinations  
 UVA-374   Big Mod  
 UVA-382   Perfection  
+UVA-424   Integer Inquiry  
 UVA-458   The Decoder  
 UVA-494   Kindergarten Counting Game  
 UVA-499   What's The Frequency, Kenneth?  
@@ -25,6 +26,7 @@ UVA-543   Goldbach's Conjecture
 UVA-575   Skew Binary  
 UVA-579   Clock Hands  
 UVA-591   Box of Bricks  
+UVA-686   Goldbach's Conjecture (II)  
 UVA-10004 Bicoloring  
 UVA-10008 What's Cryptanalysis?  
 UVA-10018 Reverse and Add  
