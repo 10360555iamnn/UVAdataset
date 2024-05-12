@@ -20,6 +20,7 @@ UVA-382   Perfection
 UVA-424   Integer Inquiry  
 UVA-458   The Decoder  
 UVA-494   Kindergarten Counting Game  
+UVA-495   Fibonacci Freeze  
 UVA-499   What's The Frequency, Kenneth?  
 UVA-541   Error Correction  
 UVA-543   Goldbach's Conjecture  
