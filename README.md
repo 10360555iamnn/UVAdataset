@@ -32,6 +32,7 @@ UVA-686   Goldbach's Conjecture (II)
 UVA-10004 Bicoloring  
 UVA-10008 What's Cryptanalysis?  
 UVA-10018 Reverse and Add  
+UVA-10019 Funny Encryption Method  
 UVA-10035 Primary Arithmetic  
 UVA-10038 Jolly Jumpers  
 UVA-10041 Vito's Family  
