@@ -34,6 +34,7 @@ UVA-10008 What's Cryptanalysis?
 UVA-10018 Reverse and Add  
 UVA-10035 Primary Arithmetic  
 UVA-10038 Jolly Jumpers  
+UVA-10041 Vito's Family  
 UVA-10055 Hashmat the Brave Warrior  
 UVA-10071 Back to High School Physics  
 UVA-10082 WERTYU  
